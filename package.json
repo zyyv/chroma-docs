@@ -2,7 +2,7 @@
   "name": "chroma-docs",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.6.0",
+  "packageManager": "pnpm@9.9.0",
   "description": "chroma docs",
   "author": "Chris <https://github.com/zyyv>",
   "license": "MIT",
